@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Apple &#8211; Portfolio Web</title>
+	<atom:link href="http://localhost/myproject/wordpress/category/apple/feed/" rel="self" type="application/rss+xml" />
+	<link>https://duyanh120032.github.io/mywordpress</link>
+	<description>Portfolio Themes</description>
+	<lastBuildDate>Sat, 12 Jun 2021 09:18:09 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://duyanh120032.github.io/mywordpress/wp-content/uploads/2021/06/favicon.png</url>
+	<title>Apple &#8211; Portfolio Web</title>
+	<link>https://duyanh120032.github.io/mywordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Apple ra mắt iMac 2021: Thiết kế mới, nhiều tuỳ chọn màu sắc, dùng chip M1, hỗ trợ Touch ID, giá từ 1299 USD</title>
+		<link>https://duyanh120032.github.io/mywordpress/2021/06/12/the-new-imac/</link>
+					<comments>https://duyanh120032.github.io/mywordpress/2021/06/12/the-new-imac/#respond</comments>
+		
+		<dc:creator><![CDATA[duyanh120032]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2021 04:14:54 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<guid isPermaLink="false">https://duyanh120032.github.io/mywordpress/?p=277</guid>
+
+					<description><![CDATA[Apple&#160;trong sự kiện Spring Loaded đã công bố iMac được thiết kế lại với ngoại hình hoàn toàn mới. iMac mới có rất nhiều phiên bản màu sắc, thiết kế mỏng hơn đáng kể so với bản chạy trên nền tảng Intel. iMac mới có tổng cộng bảy màu: Xanh lá cây, vàng, cam, hồng, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignnone size-full wp-image-6" src="https://duyanh120032.github.io/mywordpress/wp-content/uploads/2021/06/m1-imac-2021-1618969614-8311-1618970163.jpg" alt="" width="1920" height="1081" /></p>
+
+
+<h2><a href="https://www.thegioididong.com/apple" target="_blank" rel="noreferrer noopener">Apple</a>&nbsp;trong sự kiện Spring Loaded đã công bố iMac được thiết kế lại với ngoại hình hoàn toàn mới. iMac mới có rất nhiều phiên bản màu sắc, thiết kế mỏng hơn đáng kể so với bản chạy trên nền tảng Intel.</h2>
+
+
+
+<p>iMac mới có tổng cộng bảy màu: Xanh lá cây, vàng, cam, hồng, tím, xanh dương và bạc. Mặt trước iMac có màn hình Retina 24 inch độ phân giải 4.5K với viền mỏng, mặc dù có màn hình lớn hơn nhưng kích thước tổng thể chỉ lớn hơn một chút so với iMac 21.5 inch.</p>
+
+
+
+<p>iMac mới cũng được trang bị chip tự phát triển M1, tương tự như chip của MacBook Air và MacBook Pro mới. Apple cho biết CPU trên iMac mới nhanh hơn 85% so với iMac 21.5 inch trước đó, hiệu suất GPU cũng nhanh hơn gấp 2 lần so với mẫu đầu tiên.</p>
+
+
+
+<div id="section-ge1add6" class="wp-block-gutentor-e6 section-ge1add6 gutentor-element gutentor-element-image"><div class="gutentor-element-image-box"><div class="gutentor-image-thumb"><img class="normal-image" src="https://duyanh120032.github.io/mywordpress/wp-content/uploads/2021/06/iphone-12-mini-64gb_97.jpg"/></div></div></div>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jeg_video_container jeg_video_content"><iframe loading="lazy" title="WWDC21 Day 5: Appmazing | Apple" width="500" height="281" src="https://www.youtube.com/embed/fwQF-HQG-pU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://duyanh120032.github.io/mywordpress/2021/06/12/the-new-imac/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

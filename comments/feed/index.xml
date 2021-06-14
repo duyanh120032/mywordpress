@@ -7,15 +7,29 @@
 	>
 <channel>
 	<title>
-	Comments for Portfolio Web	</title>
+	Bình luận cho Portfolio Web	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://duyanh120032.github.io/mywordpress</link>
 	<description>Portfolio Themes</description>
-	<lastBuildDate>Thu, 10 Jun 2021 12:12:29 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 12 Jun 2021 09:27:50 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
-</channel>
+	<item>
+		<title>
+		Phản hồi cho Dù chỉ mới ở bản beta, nhưng Android 12 đã phá vỡ kỷ lục cài đặt từ trước đến nay bởi duyanh120032		</title>
+		<link>https://duyanh120032.github.io/mywordpress/2021/06/12/du-chi-moi-o-ban-beta-nhung-android-12-da-pha-vo-ky-luc-cai-dat-tu-truoc-den-nay/#comment-2</link>
+
+		<dc:creator><![CDATA[duyanh120032]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2021 09:24:09 +0000</pubDate>
+		<guid isPermaLink="false">https://duyanh120032.github.io/mywordpress/?p=295#comment-2</guid>
+
+					<description><![CDATA[qua hay]]></description>
+			<content:encoded><![CDATA[<p>qua hay</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>

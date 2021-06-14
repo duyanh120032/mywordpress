@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Portfolio Web</title>
+	<atom:link href="http://localhost/myproject/wordpress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://duyanh120032.github.io/mywordpress</link>
+	<description>Portfolio Themes</description>
+	<lastBuildDate>Sat, 12 Jun 2021 09:27:50 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://duyanh120032.github.io/mywordpress/wp-content/uploads/2021/06/favicon.png</url>
+	<title>Uncategorized &#8211; Portfolio Web</title>
+	<link>https://duyanh120032.github.io/mywordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Dù chỉ mới ở bản beta, nhưng Android 12 đã phá vỡ kỷ lục cài đặt từ trước đến nay</title>
+		<link>https://duyanh120032.github.io/mywordpress/2021/06/12/du-chi-moi-o-ban-beta-nhung-android-12-da-pha-vo-ky-luc-cai-dat-tu-truoc-den-nay/</link>
+					<comments>https://duyanh120032.github.io/mywordpress/2021/06/12/du-chi-moi-o-ban-beta-nhung-android-12-da-pha-vo-ky-luc-cai-dat-tu-truoc-den-nay/#comments</comments>
+		
+		<dc:creator><![CDATA[duyanh120032]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2021 09:22:49 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://duyanh120032.github.io/mywordpress/?p=295</guid>
+
+					<description><![CDATA[Bạn đã cài đặt Android 12 chưa? Android 12 beta 2 vừa được phát hành, đây là một trong số các phiên bản thử nghiệm mà chúng ta sẽ thấy trước bản phát hành chính thức cho mọi người dùng vào mùa thu năm nay. Có rất nhiều nâng cấp trên bản Android mới này. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2 class="sapo" data-field="sapo">Bạn đã cài đặt Android 12 chưa?</h2>
+<p style="font-weight: 400;">Android 12 beta 2 vừa được phát hành, đây là một trong số các phiên bản thử nghiệm mà chúng ta sẽ thấy trước bản phát hành chính thức cho mọi người dùng vào mùa thu năm nay. Có rất nhiều nâng cấp trên bản Android mới này. Trên thực tế, Android 12 được cho là thay đổi lớn nhất đối với Android từ trước đến nay.</p>
+<p style="font-weight: 400;">Điều đáng ngạc nhiên hơn là so với những năm trước, chương trình Android 12 beta đang phá vỡ các kỷ lục. Phó Giám đốc Kỹ thuật cho Android, Dave Burke, chia sẻ rằng Android 12 beta là <em>“bản beta được tải xuống / cài đặt nhiều nhất từ trước đến nay”</em> của công ty. Đó là một tuyên bố khá thú vị khi chúng ta chỉ đang trong bản beta thứ 2 và thậm chí không phải tất cả các tính năng mới đều có sẵn.</p>
+<p>Android 12 đã tạo nên một sự phấn khích trong cộng đồng Android. Cuối cùng chúng ta cũng nhận được một hệ thống theme tích hợp cho Android gốc, một thứ đã có trên nhiều điện thoại Android phổ biến nhất khác như OnePlus 9 Pro và Galaxy S21. Thiết kế Material You cung cấp một sự thay đổi mạnh mẽ về giao diện điện thoại</p>
+<p>.<img loading="lazy" class="alignnone  wp-image-296" src="https://duyanh120032.github.io/mywordpress/wp-content/uploads/2021/06/screen-shot-2021-06-11-at-221558-1623424577303750661794.jpg" alt="" width="352" height="285" /></p>
+
+
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/0PbwoBZL_3k?start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://duyanh120032.github.io/mywordpress/2021/06/12/du-chi-moi-o-ban-beta-nhung-android-12-da-pha-vo-ky-luc-cai-dat-tu-truoc-den-nay/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
