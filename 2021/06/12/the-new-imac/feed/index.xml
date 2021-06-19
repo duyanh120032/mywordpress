@@ -11,11 +11,39 @@
 	<atom:link href="http://localhost/myproject/wordpress/2021/06/12/the-new-imac/feed/" rel="self" type="application/rss+xml" />
 	<link>https://duyanh120032.github.io/mywordpress/2021/06/12/the-new-imac/</link>
 	<description>Portfolio Themes</description>
-	<lastBuildDate>Sat, 12 Jun 2021 09:18:09 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 19 Jun 2021 02:45:29 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
-</channel>
+	<item>
+		<title>
+		Bởi: duyanh120032		</title>
+		<link>https://duyanh120032.github.io/mywordpress/2021/06/12/the-new-imac/#comment-4</link>
+
+		<dc:creator><![CDATA[duyanh120032]]></dc:creator>
+		<pubDate>Sat, 19 Jun 2021 02:45:29 +0000</pubDate>
+		<guid isPermaLink="false">https://duyanh120032.github.io/mywordpress/?p=277#comment-4</guid>
+
+					<description><![CDATA[spam spam spam spam spam spam spam spam spam spam spam spam spam spam]]></description>
+			<content:encoded><![CDATA[<p>spam spam spam spam spam spam spam spam spam spam spam spam spam spam</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Bởi: duyanh120032		</title>
+		<link>https://duyanh120032.github.io/mywordpress/2021/06/12/the-new-imac/#comment-3</link>
+
+		<dc:creator><![CDATA[duyanh120032]]></dc:creator>
+		<pubDate>Sat, 19 Jun 2021 02:45:12 +0000</pubDate>
+		<guid isPermaLink="false">https://duyanh120032.github.io/mywordpress/?p=277#comment-3</guid>
+
+					<description><![CDATA[tuyet voi]]></description>
+			<content:encoded><![CDATA[<p>tuyet voi</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>
