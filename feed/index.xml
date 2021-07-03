@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://duyanh120032.github.io/mywordpress</link>
 	<description>Portfolio Themes</description>
-	<lastBuildDate>Sat, 03 Jul 2021 04:05:42 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 03 Jul 2021 04:16:51 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -456,7 +456,7 @@
 				<div class="elementor-widget-container">
 			<br />
 <b>Warning</b>:  Trying to access array offset on value of type bool in <b>E:\xampp\htdocs\myproject\wordpress\wp-content\themes\jnews\class\Module\Element\Element_Blocklink_View.php</b> on line <b>27</b><br />
-<div  class="jeg_blocklink jeg_col_3o3 jnews_module_277_0_60dfe28a67411  ">
+<div  class="jeg_blocklink jeg_col_3o3 jnews_module_277_0_60dfe528728aa  ">
                 <a href="https://media.giphy.com/media/RjfXaD7oKscJaGO7c8/giphy.gif" target="_blank" rel="noopener">
                     <div class="jeg_block_container">
                         <div class="jeg_block_bg">
