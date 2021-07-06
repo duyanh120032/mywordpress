@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/category/apple/feed/" rel="self" type="application/rss+xml" />
 	<link>https://duyanh120032.github.io/mywordpress</link>
 	<description>Portfolio Themes</description>
-	<lastBuildDate>Fri, 02 Jul 2021 08:00:03 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Jul 2021 14:31:05 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -159,7 +159,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-028d498 elementor-widget elementor-widget-heading" data-id="028d498" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-medium">Chip xử lý mới</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">Chip xử lý mới</h2>		</div>
 				</div>
 					</div>
 		</div>
@@ -222,7 +222,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-6629d1d elementor-widget elementor-widget-heading" data-id="6629d1d" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-medium">Thiết kế mỏng hơn, hiện đại hơn, nhiều màu sắc</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">Thiết kế mỏng hơn, hiện đại hơn, nhiều màu sắc</h2>		</div>
 				</div>
 					</div>
 		</div>
@@ -258,7 +258,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-b80144a elementor-widget elementor-widget-heading" data-id="b80144a" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-medium">Webcam 1080p, cải thiện loa, mic...</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">Webcam 1080p, cải thiện loa, mic...</h2>		</div>
 				</div>
 					</div>
 		</div>
@@ -283,6 +283,150 @@
 								<div class="elementor-element elementor-element-c6e9403 elementor-widget elementor-widget-image" data-id="c6e9403" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 															<img width="660" height="371" src="https://duyanh120032.github.io/mywordpress/wp-content/uploads/2021/06/photo-1-1618942608535630490150.png" class="attachment-large size-large" alt="imac2" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4ed3336 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4ed3336" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6e36ae1" data-id="6e36ae1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b0ac4b2 elementor-widget elementor-widget-heading" data-id="b0ac4b2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Tích hợp Touch ID vào bàn phím, phụ kiện cũng nhiều màu sắc..</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c778be3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c778be3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c28a996" data-id="c28a996" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a1dbb14 elementor-widget elementor-widget-text-editor" data-id="a1dbb14" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<p>Năm nay, Apple tung ra phụ kiện bàn phím Magic Keyboard, Magic Mouse và Magic Trackpad với nhiều màu sắc tương tự như dòng iMac mới. Điểm đặc biệt là lần đầu tiên, Apple mang khả năng hỗ trợ Touch ID cho dòng iMac thông qua bàn phím Magic Keyboard.</p><div class="VCSortableInPreviewMode noCaption"> </div>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-590d447 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="590d447" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a5fc38b" data-id="a5fc38b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-cc248e6 elementor-widget elementor-widget-image" data-id="cc248e6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="1024" height="683" src="https://duyanh120032.github.io/mywordpress/wp-content/uploads/2019/01/computer-1245714_1920.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e159715 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e159715" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-24aa583" data-id="24aa583" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c3e5800 elementor-widget elementor-widget-heading" data-id="c3e5800" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Kết nối</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-287c2b9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="287c2b9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3c52c5a" data-id="3c52c5a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-881b6d3 elementor-widget elementor-widget-text-editor" data-id="881b6d3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<p>iMac 2021 được bán ra với hai tuỳ chọn: phiên bản GPU 7 nhân và phiên bản GPU 8 nhân tương tự như dòng MacBook Air. Phiên bản GPU 7 nhân sẽ đi kèm với 2 cổng USB-C, trong khi đó bản cao cấp hơn sẽ có tới 4 cổng USB-C, hỗ trợ xuất hình ảnh ra màn hình độ phân giải tối đa 6K, đồng thời có củ sạc đi kèm với cổng Ethernet 1Gbps.</p><div class="VCSortableInPreviewMode noCaption"> </div>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7a70e99 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7a70e99" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4d2c117" data-id="4d2c117" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-89fd417 elementor-widget elementor-widget-image" data-id="89fd417" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="660" height="371" src="https://duyanh120032.github.io/mywordpress/wp-content/uploads/2021/06/photo-1-16189425817471188096389.jpg" class="attachment-large size-large" alt="Imac2021" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-40ea2c5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="40ea2c5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4afed9d" data-id="4afed9d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-07925c1 elementor-widget elementor-widget-heading" data-id="07925c1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Giá bán</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-fde73b6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fde73b6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c706167" data-id="c706167" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-29bc302 elementor-widget elementor-widget-text-editor" data-id="29bc302" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<p>iMac 2021 sẽ có mức giá khởi điểm từ 1299 USD, tương đương 29.9 triệu đồng cho tuỳ chọn GPU 7 nhân, RAM 8GB và bộ nhớ SSD 256GB. Phiên bản GPU 8 nhân sẽ có giá khởi điểm 1499 USD, tương đương 34.6 triệu đồng, RAM 8GB, SSD 256GB.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-631b338 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="631b338" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d7c037d" data-id="d7c037d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2b23413 elementor-widget elementor-widget-heading" data-id="2b23413" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="https://www.apple.com/" target="_blank" rel="noopener">Đặt Hàng Tại Đây</a></h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-031a030 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="031a030" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6c490ca" data-id="6c490ca" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-924563f elementor-widget elementor-widget-heading" data-id="924563f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-medium">Bản cập nhật hệ điều hành tiếp theo iOS 15 gợi ý về khả năng sẽ có một chiếc iPhone tích hợp cả hai phương thức xác thực sinh trắc học là Face ID và Touch ID.</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-82896af elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="82896af" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-182b5c1" data-id="182b5c1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-9747581 elementor-widget elementor-widget-text-editor" data-id="9747581" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<p>Theo lịch trình truyền thống, Apple dự kiến ​​sẽ hé lộ những chi tiết đầu tiên về phiên bản hệ điều hành iOS tiếp theo tại sự kiện WWDC dự kiến tổ chức vào tháng 6 và chính thức phát hành vào tháng 9.</p><p> </p><p> </p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-848ff01 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="848ff01" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ccc9bdb" data-id="ccc9bdb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-8b9ddf8 elementor-widget elementor-widget-text-editor" data-id="8b9ddf8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<p>Theo đó bản dựng beta đầu tiên sẽ được tung ra ngay sau sự kiện. Mặc dù còn vài tháng nữa mới tới WWDC 2021 nhưng trang <i>iPhoneSoft </i>đã có những thông tin mới nhất về iOS 15 ngay từ bây giờ.</p><p>Cụ thể iOS 15 sẽ có Control Center tương tự như trên macOS 11 Big Sur. Nói cách khác, Apple đang lên kế hoạch thống nhất trải nghiệm Control Center trên các nền tảng. Mặc dù vậy Apple cho đến nay chưa có bất kỳ xác nhận nào về vấn đề này.</p>						</div>
 				</div>
 					</div>
 		</div>
